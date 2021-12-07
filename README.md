@@ -34,11 +34,11 @@
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=%23339933&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/static/v1?label=&message=Express&color=%23000000&logo=express&logoColor=white)](https://expressjs.com/)
 
-## Database:
+### Database:
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=%2347A248&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 
-## Deployment:
+### Deployment:
 [![Vercel](https://img.shields.io/static/v1?label=&message=Vercel&color=%23000000&logo=Vercel&logoColor=white)](https://vercel.com/)
 [![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=%23FF9900&logo=Amazon+AWS&logoColor=white)](https://aws.amazon.com/)
 [![Digital Ocean](https://img.shields.io/static/v1?label=&message=Digital+Ocean&color=%230080FF&logo=DigitalOcean&logoColor=white)](https://www.digitalocean.com/)
