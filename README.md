@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **sean.mcdougall623@gmail.com**
 
-- ⚡ Fun fact **Sometimes my code is legible!**
+- ⚡ Fun fact: **Sometimes my code is legible!**
 <p align="left">
 </p>
 
