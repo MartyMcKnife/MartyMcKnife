@@ -11,7 +11,7 @@
 
 - 👨‍💻 You can view my portfolio at [https://www.seanmcdougall.com](https://www.seanmcdougall.com)
 
-- 📫 How to reach me **sean.mcdougall623@gmail.com**
+- 📫 You can reach me at **sean.mcdougall623@gmail.com**
 
 - ⚡ Fun fact **Sometimes my code is legible!**
 <p align="left">
