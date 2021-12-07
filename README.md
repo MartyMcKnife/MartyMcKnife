@@ -1,9 +1,9 @@
 <h1 align="center">Hello! 👋, I'm Sean</h1>
 <h3 align="center">I'm an aspiring fullstack developer in Perth, who enjoys solving problems through code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martymcknife&label=Profile%20views&color=0e75b6&style=flat" alt="martymcknife" /> </p>
+![](https://komarev.com/ghpvc/?username=martymcknife)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martymcknife" alt="martymcknife" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=martymcknife&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Expanding my Portfolio!**
 
@@ -14,23 +14,38 @@
 - 📫 You can reach me at **sean.mcdougall623@gmail.com**
 
 - ⚡ Fun fact: **Sometimes my code is legible!**
-<p align="left">
-</p>
 
-<h3 align="left">Languages I know:</h2>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+### Languages I know:
+[![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=%233178C6&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C#](https://img.shields.io/static/v1?label=&message=C%23&color=%23239120&logo=c+sharp&logoColor=white)](https://www.w3schools.com/cs/)
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=%233776AB&logo=python&logoColor=white)](https://www.python.org/)
 
-<h2 align="left">My Stack:</h2>
-<h3 align="left">Frontend:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>   </p>
-<h3 align="left">Backend:</h3>
-<p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></p>
-<h3 align="left">Databases:</h3>
-<p align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></p>
-<h3 align="left">Hosting:</h3>
-<p align="left"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
+## My Stack:
+### Frontend:
+[![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=%23E34F26&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=%231572B6&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/static/v1?label=&message=React&color=%2361DAFB&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=%23000000&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Tailwind](https://img.shields.io/static/v1?label=&message=Tailwind&color=%2306B6D4&logo=tailwind+css&logoColor=white)](https://tailwindcss.com/)
+[![Chakra UI](https://img.shields.io/static/v1?label=&message=Chakra+UI&color=%23319795&logo=chakra+ui&logoColor=white)](https://chakra-ui.com/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martymcknife&show_icons=true&locale=en&layout=compact" alt="martymcknife" /></p>
+### Backend:
+[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=%23339933&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Express](https://img.shields.io/static/v1?label=&message=Express&color=%23000000&logo=express&logoColor=white)](https://expressjs.com/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martymcknife&show_icons=true&locale=en" alt="martymcknife" /></p>
+## Database:
+[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=%2347A248&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+
+## Deployment:
+[![Vercel](https://img.shields.io/static/v1?label=&message=Vercel&color=%23000000&logo=Vercel&logoColor=white)](https://vercel.com/)
+[![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=%23FF9900&logo=Amazon+AWS&logoColor=white)](https://aws.amazon.com/)
+[![Digital Ocean](https://img.shields.io/static/v1?label=&message=Digital+Ocean&color=%230080FF&logo=DigitalOcean&logoColor=white)](https://www.digitalocean.com/)
+[![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=%232496ED&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=%23FCC624&logo=Linux&logoColor=white)](https://www.linux.org/)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martymcknife&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="martymcknife" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martymcknife&show_icons=true&locale=en&count_private=true&theme=dracula" alt="martymcknife" /></p>
