@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Expanding my Portfolio!**
 
-- 🌱 I’m currently exploring **Test driven development**
+- 🌱 I’m currently exploring **Supabase**
 
 - 👨‍💻 You can view my portfolio at [https://www.seanmcdougall.com](https://www.seanmcdougall.com)
 
